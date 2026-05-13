@@ -39,3 +39,7 @@
 - Pagination
 - Dark Mode
 - Better Responsive Design
+
+bash
+git clone https://github.com/ayush2005-14/Customer-Managemnt-System.git
+cd Customer-Managemnt-System
