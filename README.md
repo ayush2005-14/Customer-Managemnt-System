@@ -40,8 +40,6 @@
 - Dark Mode
 - Better Responsive Design
 
-# Clone the GitHub Repository
-git clone https://github.com/ayush2005-14/Customer-Managemnt-System.git
-
-# Move into Project Folder
+```bash
+git clone https://github.com/ayush2005-14/Customer-Managemnt-System.gi
 cd Customer-Managemnt-System
