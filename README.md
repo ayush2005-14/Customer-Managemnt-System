@@ -19,24 +19,23 @@ This project allows users to manage user records with an easy-to-use interface a
 - JavaScript
 - SweetAlert2
 
-├── index.php        # Main dashboard / user list
-├── add.php          # Add new user form
-├── edit.php         # Edit existing user
-├── action.php       # Handles CRUD operations
-├── config.php       # Database connection
-├── style.css        # Styling file
+📂 Project Structure
+- ├── index.php        # Main dashboard / user list
+- ├── add.php          # Add new user form
+- ├── edit.php         # Edit existing user
+- ├── action.php       # Handles CRUD operations
+- ├── config.php       # Database connection
+- ├── style.css        # Styling file
 
-🎯 Learning Objectives
-
-🎯 This project is great for beginners who want to learn:
+🎯 This project is great for Advance Users who want to learn:
 
 - PHP CRUD Operations
 - MySQL Database Connectivity
 - Form Handling
 - Session Handling
 - Frontend & Backend Integration
-🔮 Future Improvements
-🔐 User Authentication
+- Future Improvements
+- User Authentication
 🔍 Search Functionality
 📄 Pagination
 🌙 Dark Mode
