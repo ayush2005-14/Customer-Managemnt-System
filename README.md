@@ -1,17 +1,17 @@
 🚀 PHP CRUD Application
 
-A simple and professional CRUD (Create, Read, Update, Delete) application built using PHP and MySQL.
-This project allows users to manage user records with an easy-to-use interface and includes success/error alerts using SweetAlert.
+- A simple and professional CRUD (Create, Read, Update, Delete) application built using PHP and MySQL.
+- This project allows users to manage user records with an easy-to-use interface and includes success/error alerts using SweetAlert.
 
 📌 Features
-➕ Add New Users
-📋 Display User List
-✏️ Edit Existing Users
-❌ Delete Users
-🔔 SweetAlert Notifications
-🗄️ MySQL Database Integration
-🎨 Clean and Responsive UI
-🛠️ Technologies Used
+- Add New Users
+- Display User List
+- Edit Existing Users
+- Delete Users
+- SweetAlert Notifications
+- MySQL Database Integration
+- Clean and Responsive UI
+- Technologies Used
 - PHP
 - MySQL
 - HTML5
@@ -28,7 +28,6 @@ This project allows users to manage user records with an easy-to-use interface a
 - ├── style.css        # Styling file
 
 🎯 This project is great for Advance Users who want to learn:
-
 - PHP CRUD Operations
 - MySQL Database Connectivity
 - Form Handling
@@ -36,7 +35,7 @@ This project allows users to manage user records with an easy-to-use interface a
 - Frontend & Backend Integration
 - Future Improvements
 - User Authentication
-🔍 Search Functionality
-📄 Pagination
-🌙 Dark Mode
-📱 Better Responsive Design
+- Search Functionality
+- Pagination
+- Dark Mode
+- Better Responsive Design
