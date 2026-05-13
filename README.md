@@ -1,1 +1,43 @@
-# Customer-Managemnt-System
+🚀 PHP CRUD Application
+
+A simple and professional CRUD (Create, Read, Update, Delete) application built using PHP and MySQL.
+This project allows users to manage user records with an easy-to-use interface and includes success/error alerts using SweetAlert.
+
+📌 Features
+➕ Add New Users
+📋 Display User List
+✏️ Edit Existing Users
+❌ Delete Users
+🔔 SweetAlert Notifications
+🗄️ MySQL Database Integration
+🎨 Clean and Responsive UI
+🛠️ Technologies Used
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+- SweetAlert2
+
+├── index.php        # Main dashboard / user list
+├── add.php          # Add new user form
+├── edit.php         # Edit existing user
+├── action.php       # Handles CRUD operations
+├── config.php       # Database connection
+├── style.css        # Styling file
+
+🎯 Learning Objectives
+
+🎯 This project is great for beginners who want to learn:
+
+- PHP CRUD Operations
+- MySQL Database Connectivity
+- Form Handling
+- Session Handling
+- Frontend & Backend Integration
+🔮 Future Improvements
+🔐 User Authentication
+🔍 Search Functionality
+📄 Pagination
+🌙 Dark Mode
+📱 Better Responsive Design
